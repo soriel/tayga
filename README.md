@@ -1,4 +1,3 @@
-```markdown
 # Tayga NAT64 Docker Container Build
 
 This repository provides instructions on how to build multi-architecture Docker containers for Tayga (a NAT64 implementation).
@@ -82,4 +81,3 @@ The following steps outline how to build the Tayga Docker container images for d
     docker save tayga-amd64-2 > /tmp/tayga-amd64-2.tar
     ```
     Выберите подходящий tar-файл в зависимости от архитектуры вашего целевого устройства.
-```
